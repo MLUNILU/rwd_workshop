@@ -38,6 +38,8 @@ df <- read.csv("../data/journals.csv") %>%
 
 He heard [^detail] the crack echo in the late afternoon about a mile away. His heart started racing and he bolted into a full sprint. It was not a gunshot, it was not a gunshot, he repeated under his breathlessness as he continued to sprint. This was on the London--Manchester road. I recently discovered I could make fudge with just chocolate chips, sweetened condensed milk, vanilla extract, and a thick pot on slow heat. I tried it with dark chocolate chunks and I tried it with semi---sweet *chocolate chips* ---it is better with both kinds. It comes out pretty bad with just the dark chocolate. The best add-ins are crushed almonds and marshmallows. What you get from that is **Rocky Road**. It takes about twenty minutes from start to fridge, and then it takes about six months to work off the twenty pounds you gain from eating it.
 
+A sentence was added
+
 [^detail]:Günther was his name
 
 # Introduction
